@@ -1,5 +1,7 @@
 # project-rk-music
 
+Construindo o CSS / Building CSS
+
 [PT-BR]
 Aplicação construída com interface React JS, consumindo a Apple Music API.
 Na aplicação o usuário é capaz de buscar os mais diversos artistas musicais, podendo escutar e favoritar suas músicas preferidas.
